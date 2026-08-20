@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello
 
-<!--
-**arcadiag1/arcadiag1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer building things with **AI, cloud, and code**.
 
-Here are some ideas to get you started:
+## 🛠️ Tools I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI • LLMs • LangGraph • RAG  
+🐍 Python • TypeScript • C#  
+☁️ AWS • Docker  
+⚡ APIs • Microservices • Distributed Systems  
+
+## 🚀 Focus
+
+- AI-powered applications
+- Scalable backend systems
+- Cloud infrastructure
+- Automation
+
+Learning, experimenting, and shipping.
